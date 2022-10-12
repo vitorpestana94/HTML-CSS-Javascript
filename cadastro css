@@ -1,0 +1,54 @@
+/* CSS da página de cadastro criada para as aulas de css da faculdade.*/
+/* CSS page created for the college classes.*/
+#fieldlset1{
+  width: 480px;
+  height: 780px;
+  border: 5px solid black;
+  top: 1%;
+  right: 25%;
+  padding-bottom: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  position: absolute;
+  background-color: snow;
+  border-radius: 150px;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: black;
+    position: static;
+    text-align: center;
+}
+body{
+  height: 1000px;
+  background:  #9eb5a5;
+}
+
+input{
+  font-family: 'Dancing Script', cursive;
+  background-color: #FFEEFF;
+  font-weight: bold;
+  font-size: 25px;
+  width: 500px;
+  height: 50px;
+  border-radius: 50px;
+  border: 3px solid black;
+  position: static;
+  text-align: center;
+}
+
+#enviar{
+  font-family: 'Dancing Script', cursive;
+  right: 31%;
+  color: black;
+  background-color: #BC8F8F;
+  font-weight: bold;
+  font-size: 25px;
+  width: 300px;
+  height: 50px;
+  border-radius: 50px;
+  border: 3px solid black;
+  position: absolute;
+  text-align: center;
+}
