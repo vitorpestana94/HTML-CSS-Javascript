@@ -1,5 +1,5 @@
-<!-- html de um cadastro simples feito nas aulas da faculdade-->
-<!-- a simple registration html page code made in college classes-->
+<!-- html de um cadastro simples feito nas aulas da faculdade. Para rodar, o css precisa estar linkado como style.css!-->
+<!-- a simple registration html page code made in college classes.To work   is needed that the linkation of the css to be as style.css-->
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
