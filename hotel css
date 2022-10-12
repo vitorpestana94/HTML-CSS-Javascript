@@ -1,5 +1,5 @@
-/* css da página de formulário de um hotel fictício. Este foi meu primeiro css e foi criado para as aulas da faculdade */
-/* Css of a ficticious hotel form page. This is my first css code and was created for the college classes.*/
+/* CSS da página de formulário de um hotel fictício. Este foi meu primeiro css e foi criado para as aulas da faculdade */
+/* CSS of a ficticious hotel form page. This is my first css code and was created for the college classes.*/
 html, body {
   max-width: 640px;
   margin: 0 auto;
