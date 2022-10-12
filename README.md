@@ -17,8 +17,9 @@ CSS page created for the college classes.
 # hotel html/hotel css:
 
 hotel html:
-HTML de uma página de formulário de um hotel fictício. Esta página foi criada para as aulas da faculdade.
-HTML of a fictitious hotel form page. This page was created for college classes.
+HTML de uma página de formulário de um hotel fictício. Este é meu primeiro HTML e foi criado para as aulas da faculdade.
+HTML of a fictitious hotel form page. This is my first HTML code and it was created for college classes.
 
 hotel css:
-
+CSS da página de formulário de um hotel fictício. Este foi meu primeiro css e foi criado para as aulas da faculdade 
+CSS of a ficticious hotel form page. This is my first css code and was created for the college classes.
