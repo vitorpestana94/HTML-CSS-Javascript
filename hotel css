@@ -1,0 +1,94 @@
+/* css da página de formulário de um hotel fictício. Este foi meu primeiro css e foi criado para as aulas da faculdade */
+/* Css of a ficticious hotel form page. This is my first css code and was created for the college classes.*/
+html, body {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+body{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  background-color: snow;
+}
+#fieldset1{
+  background-image: url("https://www.blogvambora.com.br/wp-content/uploads/2019/12/Rooftop-Bar-Yoo2-Rio-de-Janeiro.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 42px;
+  height:165px;
+}
+#h2_0{
+  font-weight: 900;
+  text-shadow: 1px -1px black;
+  font-style: oblique;
+  font-family: Georgia, serif;
+  color: black;
+}
+#fieldset2{
+  background-color: #F5F5F5;
+  border-radius: 42px;
+}
+#div_0{
+  position:relative;
+  top:100%;
+  left: 1%;
+  border-radius: 15px 50px 30px;
+  background: skyblue;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#div_1{
+  position:relative;
+  top:100%;
+  left: 30%;
+  border-radius: 15px 50px 30px;
+  background: skyblue;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#div_2{
+  position:relative;
+  top:100%;
+  left: 60%;
+  border-radius: 15px 50px 30px;
+  background: skyblue;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#div_3{
+  position:relative;
+  top:100%;
+  left: 60%;
+  border-radius: 15px 50px 30px;
+  background: skyblue;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#botao{
+background: #0066A2;
+color: white;
+border-style: outset;
+border-color: #0066A2;
+height: 50px;
+width: 100px;
+font: bold15px arial,sans-serif;
+text-shadow: none;
+border-radius: 20px;
+}
+#teste{
+display: flex;
+justify-content: center;  
+}
+#div_4{
+  position:relative;
+  top:100%;
+  left: 5%;
+  border-radius: 15px 50px 30px;
+  background: skyblue;
+  padding: 20px;
+  width: 250px;
+  height: 120px;
+}
