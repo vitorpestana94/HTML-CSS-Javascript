@@ -23,3 +23,8 @@ HTML of a fictitious hotel form page. This is my first HTML code and it was crea
 hotel css:
 CSS da página de formulário de um hotel fictício. Este foi meu primeiro css e foi criado para as aulas da faculdade 
 CSS of a ficticious hotel form page. This is my first css code and was created for the college classes.
+
+# Exercícios Javascript:
+Essa pasta contém alguns exercícios de Javascript propostos pelo curso "Curso Web Moderno Completo com JavaScript 2022 + Projetos" disponível no site udemy.
+This folder contains some Javascript exercices from the udemy's course "Curso Web Moderno Completo com JavaScript 2022 + Projetos".
+
