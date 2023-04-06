@@ -11,7 +11,7 @@ function inverso(valor){
   }
   else{
     retorno =  `Booleano ou númerico esperado, mas o parâmetro é do tipo ${typeof valor}.`
-    //retorno =  `Boolean or numeric expected, but the given paramater it's ${typeof valor} type.`
+    //retorno =  `Boolean or numeric expected, but the given paramater is ${typeof valor} type.`
   }
   return retorno
 }
