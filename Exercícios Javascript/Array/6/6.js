@@ -10,7 +10,8 @@ function inverso(valor){
     retorno =  true
   }
   else{
-    retorno =  `Boleano ou númerico esperado, mas o parâmetro é do tipo ${typeof valor}`
+    retorno =  `Booleano ou númerico esperado, mas o parâmetro é do tipo ${typeof valor}.`
+    //retorno =  `Boolean or numeric expected, but the given paramater it's ${typeof valor} type.`
   }
   return retorno
 }
