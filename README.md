@@ -32,7 +32,7 @@ HOTEL CSS:
   
   CSS of a ficticious hotel form page. This is my first css code and was created for the college classes.
 
-## Exercícios Javascript:
+## Exercícios Javascript: "Curso Web Moderno Completo com JavaScript 2022 + Projetos"
 
   Essa pasta contém alguns exercícios de Javascript propostos pelo curso "Curso Web Moderno Completo com JavaScript 2022 + Projetos" disponível no site udemy.
   
