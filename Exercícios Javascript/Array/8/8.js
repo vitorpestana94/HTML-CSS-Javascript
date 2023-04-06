@@ -4,4 +4,4 @@ function mult(n1,n2, n3=0){
   }
   return n3
 }
-console.log(mult(4,10))
+console.log(mult(3,3))
