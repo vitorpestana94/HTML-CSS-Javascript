@@ -1,5 +1,9 @@
-function novo_array(array){
+function novo_array(elemento, quantidade){
   let new_array=[]
-  new_array.push(array[0], array[array.length - 1])
+  for(let x=0; x < quantidade; x++){
+    new_array.push(elemento)
+  }
   return new_array
 }
+console.log(novo_array("love", 10))
+console.log(novo_array(3, 10))
