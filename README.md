@@ -1,7 +1,6 @@
 # HTML-CSS-Javascript:
 
 Esta pasta contêm alguns projetos em HTML/CSS/Javascript. A grande maioria foi criada para as aulas da faculdade.
-
 This folder contains some HTML/CSS/Javascript projects. Most of those projects was created for college classes.
 
 ## Cadastro html/cadastro css:
