@@ -1,6 +1,6 @@
 # Português:
 
-Desenvolva uma função que receba um objeto como primeiro parâmtero e, como segundo parâmetro, o nome de uma propriedade contida neste objeto. Em seguida, retorne uma cópia
+Desenvolva uma função que receba um objeto como primeiro parâmetro e, como segundo parâmetro, o nome de uma propriedade contida neste objeto. Em seguida, retorne uma cópia
 deste objeto sem a propriedade especificada.
 
 # English:
