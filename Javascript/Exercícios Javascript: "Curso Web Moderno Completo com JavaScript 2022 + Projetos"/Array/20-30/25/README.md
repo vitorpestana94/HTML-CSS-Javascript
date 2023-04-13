@@ -8,4 +8,4 @@ vazio).
 
 Develop a function that receives as the first parameter a word and, as second one, an array of strings. The function must filter the array's words that contains
 the string of the first parameter and return an array with them whithin (only if there's any condition that fullfill the condition of the filter, otherwise 
-it should returns an empety array) .
+it should returns an empety array).
