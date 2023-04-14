@@ -1,0 +1,132 @@
+<!-- HTML de uma página de formulário de um hotel fictício. Este é meu primeiro HTML e foi criado para as aulas da faculdade.-->
+<!-- HTML of a fictitious hotel form page.This is my first HTML code and it was created for college classes.-->
+<!doctype html>
+<html lang="pt-br">
+  <Head>
+    <meta charset="UTF-8">
+    <title>Hotel Pestana Menezes</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </Head>
+  <body>
+  <form>
+    <fieldset id="fieldset1">
+      <legend><h2 id="h2_0">Hotel Pestana Menezes</h2></legend>
+    </fieldset>
+      <div>
+        <fieldset id="fieldset2">
+          <legend id="h2_0">Dados Pessoais:</legend>
+          <div id="div_0">
+          <span>
+            <form>
+             <label for="pnome">Primeiro nome:</label>
+             <input type="text" id="pnome" nome="Primeiro nome">
+            </form>
+          </span>
+        <br>
+          <span>
+            <form>
+             <label for="snome">Sobrenome:</label>
+             <input type="text" id="snome" nome="Último nome" >
+              <br>
+            </form>
+            <form>
+             <label for="nrg1">RG:</label>
+              <br>
+             <input type="number" id="nrg1" nome="nrg1" >
+            </form>
+          </span>
+            </div>
+          <br>
+          <div id="div_1">
+          <span>
+            <form>
+             <label for="cpf">CPF: </label>
+             <input type="number" id="cpf" cpf="cpf"
+            </form>
+          </span>
+          <span>
+            <br>
+            <form>
+             <label for="email">Email: </label>
+             <input type="email" name="email" id="email" email="email" placeholder="Digite seu email aqui!"</input>
+              <span>
+            <br>    
+            <label for="telefone">Telefone: </label>
+            <input type="tel" name="telefone"id="telefone" telefone="telefone"
+            </input>
+          </span>     
+            </form>
+          </span>
+          </div>
+          <br>
+          <div id="div_2">
+          <p>Sexo:</p>
+          <form>
+           <input type="radio" name="sexo" value="m">Masculino <br>
+          </form>
+          <form>
+           <input type="radio" name="sexo" value="f">Feminino <br>
+          </form>
+          <form>
+            <input type="radio" name="sexo" value="pnd">Prefiro não declarar<br>
+          </form>
+          </div>
+        </fieldset>
+      </div>
+        <form>
+          <fieldset id="fieldset2">
+            <legend id="h2_0">Dados da Reserva do Quarto: </legend>
+            <div id="div_0">
+            <span>
+              <label for="dchegada"> Data de Check in:</label>
+              <br>
+            <form>
+              <input type="date" name="dchegada"> </input>
+            </form>
+            </span>
+            <br><br>
+            <span>
+              <label for="nnoites">Número de Noites:</label>
+            <form>
+            <input type="number" name="quantidade" min="1" max="100">    
+            </form> 
+            </span>
+            </div>
+            <br>
+            <div id="div_1">
+              <span>
+                <label for="nhospedes">Número de Hospedes:</label> <br>       
+                   <input type="number" name="quantidade" min="1" max="30"
+             </span>
+            <span><br><br>
+              <label for="total">Custo Total: </label>
+              <input type="number" id="total" total="total"
+            </span>
+            </div>
+            <br>
+            <span>
+            <div id="div_2">
+              <label for="mensagem">Feedback Sobre o Quarto: </label><br><br>
+              <textarea name="mensagem" id="mensagem" mensagem="mensagem" rows=5 cols=23>                
+              </textarea>
+            </span>
+          </fieldset>
+        <fieldset id="fieldset2">
+        <legend id="h2_0">Conclusão: </legend>
+        <div id="div_4">
+      <label for="gorjeta">Gorjeta do Concierge do Hotel
+        <br>(minimo de 10, máximo 100 reais): </label>
+          <form oninput="result.value=parseInt(a.value)+parseInt(b.value)"><br>
+<input type="range" name="b" value="50" />100<input type="number" name="a" value="10" /> =
+<output name="result"></output>                
+</form>     
+    </div>
+          <br>
+          <div id="teste">
+          <button id= "botao" type="button" onclick="alert('Formulário concluído e enviado com sucesso!')">Concluir Formulário</button>
+          </div>
+        </fieldset>
+        </form>
+    </form>
+  </body>
+</html>
