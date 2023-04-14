@@ -3,3 +3,5 @@ CSS da página de formulário de um hotel fictício. Este foi meu primeiro css e
 
 # English:
 CSS of a ficticious hotel form page. This is my first css code and was created for the college classes.
+
+<img scr="https://github.com/vitorpestana94/HTML-CSS-Javascript/blob/main/Faculdade/Hotel/hotel_1.png"
