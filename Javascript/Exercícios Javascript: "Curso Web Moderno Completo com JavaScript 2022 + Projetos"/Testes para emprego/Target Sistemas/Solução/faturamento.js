@@ -25,11 +25,6 @@ function faturamento(vetor){
 }
 
 
-
-
-
-
-
 console.log(faturamento([{
 		"dia": 1,
 		"valor": 22174.1664
