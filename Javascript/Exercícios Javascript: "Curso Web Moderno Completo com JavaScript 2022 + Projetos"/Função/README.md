@@ -1,6 +1,6 @@
 # Português:
 
-Nesta pasta há exercícios do curso "Web Moderno Completo com JavaScript 2022 + Projetos" acerca de fuções em javascript. Todos os exercícios são em um PDF que está na pasta com o mesmo nome.
+Nesta pasta há exercícios do curso "Web Moderno Completo com JavaScript 2022 + Projetos" acerca de fuções em javascript. Todos os exercícios são de um PDF que está na pasta com o mesmo nome.
 
 # English:
 
