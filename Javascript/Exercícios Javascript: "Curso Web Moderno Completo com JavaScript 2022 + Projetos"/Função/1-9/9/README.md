@@ -1,0 +1,8 @@
+# Enunciado:
+
+Construa uma função para um sistema de notas de uma instituição que possui a seguinte política de
+classificação: Todo aluno recebe uma nota de 0 a 100. Alunos com nota abaixo de 40 são reprovados. As notas possuem a seguinte regra de arredondamento: Se a diferença entre a nota e o próximo múltiplo de 5 for menor que 3, arredondar a nota para esse próximo múltiplo de 5. Se a nota for abaixo de 38, não é feito nenhum arredondamento pois esta nota resulta na reprovação do aluno. Por exemplo, a nota 84 será arredondada para 85, mas a nota 29 não será arredondada por ser abaixo de 40 e não ser possível arredondamento eficiente, ou seja, que evite a reprovação do aluno. No caso de a nota ser 38, o arredondamento é possível pois atingirá 40 e o aluno será aprovado.
+
+# Statement:
+
+Develop a function for a grade system that follows the following classification: Every student receives grades from 0 to 100. Students with grades below 40 are reproved. The grades follows the following round rule: if the diference between the grade and the next multiple of five is lower then 3, the grade must be rounded for the next multiple of 5. If the grade is bellow 38, it should be not rounded because the student must be necessary reproved. If, for example, the grade is 84, it will be rounded for 85; but if the grade is 29, it should be not rounded because it's lower than 40 and it's impossible an efficient rounding, in other words, a rounding that avoids the student's reprovation. In the case that the grade is exactly 38, the grade must the rounded because it will achieve 40 and the student will be approved.
