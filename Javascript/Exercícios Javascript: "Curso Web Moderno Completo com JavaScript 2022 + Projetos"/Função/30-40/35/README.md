@@ -1,0 +1,5 @@
+# Enunciado:
+Desenvolva um software que contenha dois vetores chamados vetorPilha e vetorAdiciona. Inicialmente, o vetorPilha conterá cinco elementos inteiros: [1, 2, 3, 4, 5]. O software deve adicionar os números contidos no vetorAdiciona [6, 7, 8, 9, 10] ao vetorPilha e mostrar o resultado no console. É importante lembrar que o método push retorna apenas o tamanho do vetor. Ao final das operações, o software deve exibir os vetores no console.
+
+# Statement:
+Develop a software that contains two arrays named vetorPilha and vetorAdiciona. Initially, the vetorPilha will contain five integers: [1, 2, 3, 4, 5]. The software should add the numbers from vetorAdiciona [6, 7, 8, 9, 10] to the vetorPilha array and display the result on the console. It's important to remember that the push method only returns the length of the array. At the end of the operations, the software should show the arrays on the console.
